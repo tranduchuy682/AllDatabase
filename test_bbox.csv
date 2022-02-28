@@ -1,262 +1,270 @@
-﻿Path,x,y,w,h,x_max,y_max,label
-/LISCDatabase/Main Dataset/Baso/12.bmp,460,198,77,68,537,266,1
-/LISCDatabase/Main Dataset/Baso/29.bmp,47,7,76,83,123,90,1
-/LISCDatabase/Main Dataset/Baso/20.bmp,341,299,81,72,422,371,1
+﻿/RaabinDatabase/GrTh/Original/Basophil/20190531_120229_0.jpg,151,164,281,293,432,457,1
+/RaabinDatabase/GrTh/Original/Basophil/20190527_113105_0.jpg,136,113,326,324,462,437,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_164638_0.jpg,143,167,269,265,412,432,1
+/RaabinDatabase/GrTh/Original/Basophil/20190527_114445_0.jpg,135,136,282,306,417,442,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_165055_0.jpg,152,122,304,291,456,413,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_113328_0.jpg,167,176,249,245,416,421,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_105430_0.jpg,162,142,283,303,445,445,1
+/RaabinDatabase/GrTh/Original/Basophil/20190527_112249_0.jpg,127,151,297,265,424,416,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_110010_0.jpg,245,213,172,228,417,441,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_115329_0.jpg,135,167,274,237,409,404,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_170737_0.jpg,150,167,251,234,401,401,1
+/RaabinDatabase/GrTh/Original/Basophil/20190527_114335_1.jpg,111,79,304,318,415,397,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_170803_0.jpg,135,159,291,263,426,422,1
+/RaabinDatabase/GrTh/Original/Basophil/20190527_114843_0.jpg,86,166,339,275,425,441,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_163414_0.jpg,127,140,282,296,409,436,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_111852_0.jpg,135,127,293,330,428,457,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_120925_0.jpg,127,160,274,272,401,432,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_113945_0.jpg,151,187,251,253,402,440,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_115144_0.jpg,153,167,242,235,395,402,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_111058_0.jpg,142,151,267,305,409,456,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_164136_0.jpg,122,124,311,272,433,396,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_111816_0.jpg,154,151,263,291,417,442,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_120958_1.jpg,167,185,234,232,401,417,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_170523_0.jpg,143,111,294,338,437,449,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_170021_0.jpg,160,135,260,193,420,328,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_163532_0.jpg,143,120,290,329,433,449,1
+/RaabinDatabase/GrTh/Original/Basophil/20190527_115056_0.jpg,159,135,306,286,465,421,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_120644_0.jpg,150,171,277,246,427,417,1
+/RaabinDatabase/GrTh/Original/Basophil/20190527_112956_0.jpg,154,143,275,304,429,447,1
+/RaabinDatabase/GrTh/Original/Basophil/20190527_112201_0.jpg,127,143,273,305,400,448,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_115203_0.jpg,159,163,269,275,428,438,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_111601_0.jpg,135,185,259,224,394,409,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_163806_0.jpg,135,183,266,254,401,437,1
+/RaabinDatabase/GrTh/Original/Basophil/20190604_111457_0.jpg,159,127,282,284,441,411,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_165203_0.jpg,112,127,305,306,417,433,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_112055_0.jpg,159,143,267,290,426,433,1
+/RaabinDatabase/GrTh/Original/Basophil/20190531_112259_0.jpg,159,151,257,274,416,425,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_163027_0.jpg,143,111,306,345,449,456,1
+/RaabinDatabase/GrTh/Original/Basophil/20190527_111712_0.jpg,103,143,299,307,402,450,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_165145_0.jpg,159,151,234,273,393,424,1
+/RaabinDatabase/GrTh/Original/Basophil/20190526_164646_0.jpg,183,144,237,245,420,389,1
+/RaabinDatabase/GrTh/Original/Basophil/20190527_112022_0.jpg,127,175,297,281,424,456,1
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-17-3_191_2.jpg,123,166,213,278,336,444,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_233_5.jpg,88,135,370,322,458,457,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_91_2.jpg,161,158,257,266,418,424,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_359_4.jpg,142,143,293,275,435,418,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_3_1.jpg,144,151,305,275,449,426,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_222_8.jpg,79,167,344,255,423,422,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-7-24-2_342_2.jpg,167,175,233,235,400,410,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_362_4.jpg,167,151,234,269,401,420,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_246_2.jpg,175,151,290,301,465,452,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_333_2.jpg,151,191,289,305,440,496,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-24-2_7_2.jpg,188,167,214,258,402,425,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_32_1.jpg,167,119,218,321,385,440,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-22-4_32_1.jpg,239,207,159,238,398,445,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_278_3.jpg,160,175,265,244,425,419,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_214_4.jpg,167,119,232,306,399,425,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_337_3.jpg,172,192,229,205,401,397,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_509_4.jpg,151,215,267,153,418,368,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_322_2.jpg,120,143,304,269,424,412,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_323_1.jpg,131,159,288,284,419,443,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_152_1.jpg,147,129,263,296,410,425,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_16_2.jpg,151,175,251,290,402,465,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-9-1-2_354_1.jpg,170,183,276,250,446,433,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-12-4_19_1.jpg,167,165,301,264,468,429,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-24-1_125_1.jpg,143,151,258,250,401,401,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-5-4-1_89_1.jpg,151,188,310,285,461,473,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_456_3.jpg,156,167,262,258,418,425,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-17-3_232_2.jpg,143,191,322,282,465,473,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-9-3-4_126_1.jpg,159,131,265,293,424,424,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_151_1.jpg,167,183,226,238,393,421,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_241_5.jpg,127,119,297,330,424,449,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_387_3.jpg,135,95,327,359,462,454,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-5-10-1_654_1.jpg,167,159,250,252,417,411,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_252_1.jpg,134,159,298,286,432,445,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-17-3_330_1.jpg,114,155,295,285,409,440,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_200_2.jpg,151,183,273,246,424,429,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_418_1.jpg,127,151,290,312,417,463,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-27-1_334_3.jpg,155,111,259,329,414,440,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-8-2_269_1.jpg,154,160,214,252,368,412,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-10-1_1113_1.jpg,154,183,263,278,417,461,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-3-1_245_1.jpg,135,87,298,306,433,393,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-8-10-1_1236_2.jpg,151,135,274,257,425,392,2
+/RaabinDatabase/GrTh/Original/Eosinophil/95-9-4-1_88_1.jpg,135,175,290,314,425,489,2
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-13-3_5_2.jpg,151,167,242,210,393,377,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-8-2_129_1.jpg,159,167,273,233,432,400,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-8-2_255_1.jpg,206,183,187,217,393,400,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-9-4-6_146_1.jpg,167,191,207,184,374,375,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-9-3-4_46_2.jpg,206,183,282,266,488,449,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-5-10-1_399_1.jpg,191,175,189,210,380,385,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-17-3_302_2.jpg,199,191,192,218,391,409,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-5-5-1_144_2.jpg,191,142,220,248,411,390,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-13-3_19_3.jpg,150,92,304,324,454,416,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-8-2_16_1.jpg,166,191,243,238,409,429,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-10-1_891_1.jpg,185,191,240,217,425,408,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-9-1-2_225_1.jpg,155,175,271,242,426,417,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-10-1_1061_1.jpg,173,170,196,238,369,408,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-5-10-1_483_1.jpg,175,192,218,217,393,409,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-8-1_588_1.jpg,183,191,203,210,386,401,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-5-4-1_365_3.jpg,119,195,265,218,384,413,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-5-10-1_370_1.jpg,182,127,216,322,398,449,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-8-2_280_1.jpg,175,167,275,221,450,388,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-9-1-1_50_1.jpg,114,151,303,322,417,473,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-9-4-6_88_1.jpg,183,207,209,204,392,411,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-10-1_970_2.jpg,175,199,205,195,380,394,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-10-1_809_1.jpg,191,176,202,212,393,388,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-9-4-6_98_2.jpg,176,172,213,224,389,396,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-5-10-1_574_1.jpg,183,203,194,198,377,401,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-8-3_120_3.jpg,175,159,235,222,410,381,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-9-4-1_71_1.jpg,12,47,429,505,441,552,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-8-1_591_1.jpg,175,160,250,222,425,382,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-20-4_78_1.jpg,162,167,223,247,385,414,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-8-2_368_1.jpg,182,206,202,229,384,435,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-9-4-6_80_1.jpg,191,103,237,274,428,377,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-9-3-4_146_1.jpg,188,95,277,359,465,454,3
+/RaabinDatabase/GrTh/Original/Lymphocyte/95-8-8-1_264_2.jpg,168,223,251,170,419,393,3
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-8-1_295_1.jpg,159,111,287,358,446,469,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-12-3_53_1.jpg,116,143,332,298,448,441,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-7-24-2_514_2.jpg,169,183,240,218,409,401,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-8-1_577_1.jpg,119,135,306,276,425,411,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-9-4-5_88_1.jpg,87,125,367,356,454,481,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-17-4_139_1.jpg,167,175,298,289,465,464,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-10-1_820_2.jpg,143,127,271,346,414,473,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-13-5_11_2.jpg,162,95,295,378,457,473,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-22-2_190_1.jpg,138,111,343,400,481,511,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-9-1-2_232_1.jpg,135,123,318,374,453,497,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-2_168_1.jpg,111,107,339,302,450,409,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-5-4-1_132_1.jpg,167,115,338,338,505,453,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-13-1_90_1.jpg,188,159,204,258,392,417,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-1_71_1.jpg,110,127,347,407,457,534,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-10-1_783_1.jpg,121,83,320,364,441,447,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-12-6_90_1.jpg,126,111,314,362,440,473,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-8-1_482_1.jpg,143,199,257,274,400,473,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-8-2_358_1.jpg,159,179,260,250,419,429,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-2_180_4.jpg,181,151,220,276,401,427,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-13-5_8_1.jpg,109,127,337,305,446,432,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-9-3-4_105_1.jpg,168,143,261,298,429,441,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-17-1_269_1.jpg,127,121,322,328,449,449,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-12-5_132_1.jpg,120,88,315,342,435,430,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-2_278_2.jpg,140,195,290,198,430,393,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-9-1-2_31_2.jpg,119,95,354,365,473,460,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-5-11-1_96_1.jpg,151,103,309,344,460,447,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-2_348_2.jpg,130,138,312,323,442,461,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-1-1_60_4.jpg,149,173,276,235,425,408,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-5-4-1_7_1.jpg,159,127,277,274,436,401,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-1-1_64_1.jpg,60,79,349,382,409,461,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-10-1_237_1.jpg,75,97,310,351,385,448,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-8-2_324_2.jpg,152,93,328,340,480,433,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-5-10-1_627_1.jpg,167,190,244,211,411,401,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-12-4_122_1.jpg,127,111,328,358,455,469,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-8-2_204_1.jpg,141,94,315,331,456,425,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-10-1_352_1.jpg,175,112,266,333,441,445,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-1_182_1.jpg,126,74,344,351,470,425,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-9-1-2_120_1.jpg,109,111,364,341,473,452,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-22-2_311_1.jpg,127,111,386,357,513,468,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-13-3_55_2.jpg,159,247,243,164,402,411,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-1_316_1.jpg,114,79,306,230,420,309,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-24-2_108_2.jpg,119,151,346,327,465,478,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-17-1_125_1.jpg,127,151,300,296,427,447,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-1_602_1.jpg,152,111,294,329,446,440,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-5-11-1_153_1.jpg,60,183,365,330,425,513,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-12-2_139_1.jpg,120,175,336,345,456,520,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-12-5_159_1.jpg,175,167,238,314,413,481,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-5-11-1_236_1.jpg,159,161,313,328,472,489,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-6-1_741_1.jpg,119,143,293,349,412,492,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-12-2_54_1.jpg,160,254,251,152,411,406,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-17-3_72_1.jpg,96,7,366,458,462,465,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-1_175_1.jpg,159,151,334,337,493,488,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-2_301_3.jpg,143,86,274,355,417,441,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-20-2_145_1.jpg,150,71,298,357,448,428,4
+/RaabinDatabase/GrTh/Original/Monocyte/95-8-3-1_622_1.jpg,175,95,299,318,474,413,4
+/RaabinDatabase/GrTh/Original/Neutrophil/95-9-4-6_121_1.jpg,150,183,275,228,425,411,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-22-5_120_1.jpg,167,161,258,252,425,413,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-5-10-1_896_1.jpg,191,183,233,240,424,423,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-22-2_75_1.jpg,143,127,300,282,443,409,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-8-1_533_2.jpg,197,143,244,239,441,382,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-10-1_894_1.jpg,164,183,237,226,401,409,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-1-1_385_1.jpg,110,188,326,244,436,432,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-1-1_406_4.jpg,127,151,290,268,417,419,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-5-4-1_189_1.jpg,159,151,266,301,425,452,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-1-1_684_3.jpg,181,151,212,266,393,417,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-24-2_137_1.jpg,167,183,248,242,415,425,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-10-1_1046_1.jpg,190,175,243,257,433,432,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-22-2_288_2.jpg,135,167,316,258,451,425,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-10-1_1124_2.jpg,127,167,279,254,406,421,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-3-1_254_3.jpg,143,151,274,275,417,426,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-9-3-4_6_1.jpg,139,167,273,277,412,444,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-9-3-5_26_1.jpg,123,129,311,311,434,440,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-27-1_386_3.jpg,134,159,280,270,414,429,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-6-1_355_1.jpg,178,167,263,221,441,388,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-5-10-1_167_1.jpg,155,183,241,215,396,398,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-5-10-1_808_1.jpg,168,183,252,218,420,401,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-1-1_693_1.jpg,167,175,233,268,400,443,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-8-1_626_1.jpg,171,208,236,177,407,385,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-13-4_367_4.jpg,159,167,247,241,406,408,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-5-10-1_996_1.jpg,191,195,191,211,382,406,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-9-3-3_66_1.jpg,143,191,273,274,416,465,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-10-1_789_1.jpg,144,167,261,265,405,432,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-12-5_53_2.jpg,117,103,380,330,497,433,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-20-4_23_1.jpg,122,191,359,201,481,392,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-12-4_26_1.jpg,176,151,249,258,425,409,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-10-1_1294_3.jpg,163,183,229,234,392,417,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-3-2_249_4.jpg,148,143,285,290,433,433,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-27-1_511_1.jpg,167,163,265,257,432,420,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-3-2_280_2.jpg,151,111,272,306,423,417,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-1-1_758_1.jpg,175,128,268,264,443,392,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-10-1_713_5.jpg,191,189,218,217,409,406,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-5-10-1_866_1.jpg,175,199,214,229,389,428,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-5-10-1_585_2.jpg,183,159,282,238,465,397,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-13-3_40_1.jpg,127,151,314,286,441,437,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-5-11-1_202_1.jpg,173,166,243,272,416,438,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-27-1_257_2.jpg,147,151,254,258,401,409,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-13-1_26_1.jpg,151,135,274,281,425,416,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-3-1_497_1.jpg,151,183,266,237,417,420,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-8-2_313_1.jpg,174,175,251,249,425,424,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-13-4_306_1.jpg,167,175,235,226,402,401,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-8-1_39_1.jpg,158,175,242,230,400,405,5
+/RaabinDatabase/GrTh/Original/Neutrophil/95-8-3-2_265_1.jpg,167,175,266,190,433,365,5
 /LISCDatabase/Main Dataset/Baso/3.bmp,362,209,86,84,448,293,1
-/LISCDatabase/Main Dataset/Baso/39.bmp,486,448,75,78,561,526,1
-/LISCDatabase/Main Dataset/Baso/41.bmp,402,216,92,92,494,308,1
-/LISCDatabase/Main Dataset/Baso/49.bmp,119,474,83,88,202,562,1
-/LISCDatabase/Main Dataset/Baso/15.bmp,150,392,82,68,232,460,1
 /LISCDatabase/Main Dataset/Baso/38.bmp,561,85,71,70,632,155,1
-/LISCDatabase/Main Dataset/Baso/17.bmp,256,106,62,70,318,176,1
-/LISCDatabase/Main Dataset/Baso/47.bmp,225,396,67,72,292,468,1
-/LISCDatabase/Main Dataset/Baso/33.bmp,219,55,77,85,296,140,1
-/LISCDatabase/Main Dataset/Baso/4.bmp,185,274,79,77,264,351,1
 /LISCDatabase/Main Dataset/Baso/9.bmp,109,183,79,81,188,264,1
-/LISCDatabase/Main Dataset/Baso/16.bmp,222,331,70,64,292,395,1
-/LISCDatabase/Main Dataset/Baso/13.bmp,100,278,76,95,176,373,1
-/LISCDatabase/Main Dataset/Baso/51.bmp,239,252,80,95,319,347,1
-/LISCDatabase/Main Dataset/Baso/30.bmp,32,488,59,62,91,550,1
 /LISCDatabase/Main Dataset/Baso/32.bmp,157,101,83,86,240,187,1
-/LISCDatabase/Main Dataset/Baso/50.bmp,133,349,85,84,218,433,1
-/LISCDatabase/Main Dataset/Baso/25.bmp,170,331,71,62,241,393,1
-/LISCDatabase/Main Dataset/Baso/42.bmp,14,320,98,91,112,411,1
-/LISCDatabase/Main Dataset/Baso/7.bmp,405,53,84,84,489,137,1
 /LISCDatabase/Main Dataset/Baso/7.bmp,337,410,91,92,428,502,1
-/LISCDatabase/Main Dataset/Baso/40.bmp,594,293,69,71,663,364,1
-/LISCDatabase/Main Dataset/Baso/27.bmp,632,2,79,91,711,93,1
-/LISCDatabase/Main Dataset/Baso/37.bmp,189,199,82,82,271,281,1
-/LISCDatabase/Main Dataset/Baso/23.bmp,136,250,77,95,213,345,1
 /LISCDatabase/Main Dataset/Baso/1.bmp,259,79,93,87,352,166,1
-/LISCDatabase/Main Dataset/Baso/52.bmp,316,221,97,83,413,304,1
-/LISCDatabase/Main Dataset/Baso/10.bmp,584,272,74,74,658,346,1
-/LISCDatabase/Main Dataset/Baso/19.bmp,130,321,61,68,191,389,1
-/LISCDatabase/Main Dataset/Baso/26.bmp,0,10,83,84,83,94,1
 /LISCDatabase/Main Dataset/Baso/18.bmp,35,368,68,78,103,446,1
-/LISCDatabase/Main Dataset/Baso/24.bmp,166,233,74,67,240,300,1
-/LISCDatabase/Main Dataset/Baso/2.bmp,134,351,85,82,219,433,1
-/LISCDatabase/Main Dataset/Baso/8.bmp,343,340,86,97,429,437,1
-/LISCDatabase/Main Dataset/Baso/6.bmp,293,244,87,92,380,336,1
 /LISCDatabase/Main Dataset/Baso/44.bmp,47,298,96,89,143,387,1
-/LISCDatabase/Main Dataset/Baso/48.bmp,298,197,100,85,398,282,1
-/LISCDatabase/Main Dataset/Baso/21.bmp,366,404,63,68,429,472,1
-/LISCDatabase/Main Dataset/Baso/14.bmp,554,298,90,83,644,381,1
-/LISCDatabase/Main Dataset/Baso/36.bmp,178,386,77,89,255,475,1
 /LISCDatabase/Main Dataset/Baso/43.bmp,348,362,80,95,428,457,1
-/LISCDatabase/Main Dataset/Baso/28.bmp,387,260,70,77,457,337,1
-/LISCDatabase/Main Dataset/Baso/45.bmp,252,263,72,82,324,345,1
-/LISCDatabase/Main Dataset/Baso/11.bmp,453,291,83,70,536,361,1
-/LISCDatabase/Main Dataset/Baso/34.bmp,321,93,88,97,409,190,1
 /LISCDatabase/Main Dataset/Baso/31.bmp,91,222,60,64,151,286,1
-/LISCDatabase/Main Dataset/Baso/31.bmp,254,494,61,61,315,555,1
-/LISCDatabase/Main Dataset/Baso/22.bmp,571,306,91,82,662,388,1
-/LISCDatabase/Main Dataset/Baso/53.bmp,492,313,70,73,562,386,1
-/LISCDatabase/Main Dataset/Baso/35.bmp,569,387,68,73,637,460,1
 /LISCDatabase/Main Dataset/Baso/46.bmp,167,235,78,96,245,331,1
-/LISCDatabase/Main Dataset/Baso/5.bmp,322,297,91,89,413,386,1
-/LISCDatabase/Main Dataset/eosi/12.bmp,149,211,89,96,238,307,2
-/LISCDatabase/Main Dataset/eosi/29.bmp,21,149,82,99,103,248,2
-/LISCDatabase/Main Dataset/eosi/20.bmp,508,302,84,91,592,393,2
 /LISCDatabase/Main Dataset/eosi/3.bmp,26,278,87,102,113,380,2
-/LISCDatabase/Main Dataset/eosi/39.bmp,341,113,90,91,431,204,2
-/LISCDatabase/Main Dataset/eosi/15.bmp,253,241,91,97,344,338,2
-/LISCDatabase/Main Dataset/eosi/38.bmp,119,358,94,95,213,453,2
-/LISCDatabase/Main Dataset/eosi/17.bmp,280,271,75,73,355,344,2
 /LISCDatabase/Main Dataset/eosi/33.bmp,331,127,71,72,402,199,2
-/LISCDatabase/Main Dataset/eosi/4.bmp,206,311,91,102,297,413,2
-/LISCDatabase/Main Dataset/eosi/9.bmp,286,357,113,90,399,447,2
-/LISCDatabase/Main Dataset/eosi/16.bmp,263,468,83,78,346,546,2
-/LISCDatabase/Main Dataset/eosi/13.bmp,194,344,90,94,284,438,2
 /LISCDatabase/Main Dataset/eosi/30.bmp,256,366,89,89,345,455,2
-/LISCDatabase/Main Dataset/eosi/32.bmp,226,145,85,93,311,238,2
-/LISCDatabase/Main Dataset/eosi/25.bmp,263,167,76,94,339,261,2
-/LISCDatabase/Main Dataset/eosi/7.bmp,71,366,85,92,156,458,2
-/LISCDatabase/Main Dataset/eosi/27.bmp,429,315,102,103,531,418,2
 /LISCDatabase/Main Dataset/eosi/37.bmp,37,148,100,90,137,238,2
-/LISCDatabase/Main Dataset/eosi/23.bmp,301,328,78,90,379,418,2
-/LISCDatabase/Main Dataset/eosi/1.bmp,600,332,91,93,691,425,2
-/LISCDatabase/Main Dataset/eosi/10.bmp,275,242,88,89,363,331,2
-/LISCDatabase/Main Dataset/eosi/19.bmp,344,255,88,89,432,344,2
 /LISCDatabase/Main Dataset/eosi/26.bmp,340,175,82,101,422,276,2
-/LISCDatabase/Main Dataset/eosi/18.bmp,314,4,97,95,411,99,2
-/LISCDatabase/Main Dataset/eosi/24.bmp,191,212,89,84,280,296,2
-/LISCDatabase/Main Dataset/eosi/2.bmp,465,255,75,78,540,333,2
-/LISCDatabase/Main Dataset/eosi/8.bmp,53,263,75,83,128,346,2
 /LISCDatabase/Main Dataset/eosi/6.bmp,591,227,76,77,667,304,2
-/LISCDatabase/Main Dataset/eosi/21.bmp,335,402,83,92,418,494,2
-/LISCDatabase/Main Dataset/eosi/14.bmp,215,311,88,97,303,408,2
-/LISCDatabase/Main Dataset/eosi/36.bmp,203,249,98,89,301,338,2
-/LISCDatabase/Main Dataset/eosi/28.bmp,328,152,75,87,403,239,2
 /LISCDatabase/Main Dataset/eosi/11.bmp,178,180,76,82,254,262,2
-/LISCDatabase/Main Dataset/eosi/34.bmp,515,392,70,68,585,460,2
-/LISCDatabase/Main Dataset/eosi/31.bmp,362,210,66,68,428,278,2
-/LISCDatabase/Main Dataset/eosi/22.bmp,331,222,69,80,400,302,2
-/LISCDatabase/Main Dataset/eosi/35.bmp,164,318,86,80,250,398,2
 /LISCDatabase/Main Dataset/lymp/12.bmp,122,360,68,77,190,437,3
-/LISCDatabase/Main Dataset/lymp/29.bmp,296,246,69,73,365,319,3
-/LISCDatabase/Main Dataset/lymp/20.bmp,189,86,43,45,232,131,3
-/LISCDatabase/Main Dataset/lymp/20.bmp,248,265,63,59,311,324,3
-/LISCDatabase/Main Dataset/lymp/3.bmp,624,325,1,1,625,326,3
 /LISCDatabase/Main Dataset/lymp/3.bmp,625,318,29,6,654,324,3
-/LISCDatabase/Main Dataset/lymp/3.bmp,614,307,47,56,661,363,3
-/LISCDatabase/Main Dataset/lymp/3.bmp,587,382,55,59,642,441,3
-/LISCDatabase/Main Dataset/lymp/39.bmp,585,316,71,68,656,384,3
-/LISCDatabase/Main Dataset/lymp/41.bmp,230,170,62,63,292,233,3
 /LISCDatabase/Main Dataset/lymp/49.bmp,66,154,74,89,140,243,3
-/LISCDatabase/Main Dataset/lymp/15.bmp,597,291,39,50,636,341,3
-/LISCDatabase/Main Dataset/lymp/38.bmp,190,189,58,63,248,252,3
-/LISCDatabase/Main Dataset/lymp/17.bmp,316,272,54,60,370,332,3
-/LISCDatabase/Main Dataset/lymp/47.bmp,439,163,41,44,480,207,3
 /LISCDatabase/Main Dataset/lymp/33.bmp,325,253,50,49,375,302,3
-/LISCDatabase/Main Dataset/lymp/33.bmp,648,364,61,69,709,433,3
-/LISCDatabase/Main Dataset/lymp/4.bmp,263,301,44,37,307,338,3
-/LISCDatabase/Main Dataset/lymp/9.bmp,326,227,49,29,375,256,3
-/LISCDatabase/Main Dataset/lymp/9.bmp,322,211,64,63,386,274,3
 /LISCDatabase/Main Dataset/lymp/16.bmp,402,356,54,58,456,414,3
-/LISCDatabase/Main Dataset/lymp/13.bmp,440,338,84,70,524,408,3
-/LISCDatabase/Main Dataset/lymp/51.bmp,292,250,70,82,362,332,3
-/LISCDatabase/Main Dataset/lymp/30.bmp,305,301,65,67,370,368,3
-/LISCDatabase/Main Dataset/lymp/32.bmp,290,496,66,67,356,563,3
 /LISCDatabase/Main Dataset/lymp/50.bmp,413,489,63,62,476,551,3
-/LISCDatabase/Main Dataset/lymp/25.bmp,405,368,54,60,459,428,3
-/LISCDatabase/Main Dataset/lymp/42.bmp,633,156,53,64,686,220,3
-/LISCDatabase/Main Dataset/lymp/7.bmp,202,129,62,59,264,188,3
-/LISCDatabase/Main Dataset/lymp/40.bmp,29,324,60,69,89,393,3
 /LISCDatabase/Main Dataset/lymp/27.bmp,140,277,60,71,200,348,3
-/LISCDatabase/Main Dataset/lymp/37.bmp,490,262,53,55,543,317,3
-/LISCDatabase/Main Dataset/lymp/23.bmp,71,154,52,58,123,212,3
-/LISCDatabase/Main Dataset/lymp/23.bmp,486,36,56,61,542,97,3
-/LISCDatabase/Main Dataset/lymp/1.bmp,155,291,64,66,219,357,3
 /LISCDatabase/Main Dataset/lymp/52.bmp,136,288,52,46,188,334,3
-/LISCDatabase/Main Dataset/lymp/52.bmp,563,336,78,85,641,421,3
-/LISCDatabase/Main Dataset/lymp/10.bmp,569,287,1,1,570,288,3
-/LISCDatabase/Main Dataset/lymp/10.bmp,615,260,19,24,634,284,3
-/LISCDatabase/Main Dataset/lymp/10.bmp,563,245,76,69,639,314,3
 /LISCDatabase/Main Dataset/lymp/19.bmp,268,395,66,73,334,468,3
-/LISCDatabase/Main Dataset/lymp/26.bmp,52,351,55,54,107,405,3
-/LISCDatabase/Main Dataset/lymp/18.bmp,80,148,67,61,147,209,3
-/LISCDatabase/Main Dataset/lymp/24.bmp,316,503,53,62,369,565,3
-/LISCDatabase/Main Dataset/lymp/2.bmp,568,227,36,40,604,267,3
 /LISCDatabase/Main Dataset/lymp/8.bmp,506,244,52,53,558,297,3
-/LISCDatabase/Main Dataset/lymp/6.bmp,491,183,50,54,541,237,3
-/LISCDatabase/Main Dataset/lymp/44.bmp,577,248,51,46,628,294,3
-/LISCDatabase/Main Dataset/lymp/48.bmp,407,213,67,66,474,279,3
-/LISCDatabase/Main Dataset/lymp/21.bmp,37,308,55,60,92,368,3
 /LISCDatabase/Main Dataset/lymp/14.bmp,286,214,102,83,388,297,3
-/LISCDatabase/Main Dataset/lymp/36.bmp,631,246,56,65,687,311,3
-/LISCDatabase/Main Dataset/lymp/43.bmp,308,257,61,61,369,318,3
-/LISCDatabase/Main Dataset/lymp/28.bmp,488,277,74,99,562,376,3
-/LISCDatabase/Main Dataset/lymp/45.bmp,473,291,63,59,536,350,3
 /LISCDatabase/Main Dataset/lymp/45.bmp,616,237,64,70,680,307,3
-/LISCDatabase/Main Dataset/lymp/11.bmp,470,348,58,70,528,418,3
-/LISCDatabase/Main Dataset/lymp/34.bmp,150,210,65,57,215,267,3
-/LISCDatabase/Main Dataset/lymp/34.bmp,294,154,65,70,359,224,3
-/LISCDatabase/Main Dataset/lymp/31.bmp,615,220,66,69,681,289,3
 /LISCDatabase/Main Dataset/lymp/22.bmp,90,347,56,64,146,411,3
-/LISCDatabase/Main Dataset/lymp/35.bmp,489,301,62,68,551,369,3
-/LISCDatabase/Main Dataset/lymp/46.bmp,643,234,50,48,693,282,3
-/LISCDatabase/Main Dataset/lymp/5.bmp,365,406,56,49,421,455,3
-/LISCDatabase/Main Dataset/mono/12.bmp,21,340,90,105,111,445,4
 /LISCDatabase/Main Dataset/mono/29.bmp,267,210,97,117,364,327,4
-/LISCDatabase/Main Dataset/mono/20.bmp,154,168,91,110,245,278,4
-/LISCDatabase/Main Dataset/mono/3.bmp,198,120,99,109,297,229,4
-/LISCDatabase/Main Dataset/mono/39.bmp,280,204,73,96,353,300,4
-/LISCDatabase/Main Dataset/mono/41.bmp,266,340,105,122,371,462,4
 /LISCDatabase/Main Dataset/mono/15.bmp,71,81,99,95,170,176,4
-/LISCDatabase/Main Dataset/mono/38.bmp,5,416,96,106,101,522,4
-/LISCDatabase/Main Dataset/mono/17.bmp,270,200,109,110,379,310,4
-/LISCDatabase/Main Dataset/mono/47.bmp,282,277,104,114,386,391,4
-/LISCDatabase/Main Dataset/mono/33.bmp,405,192,97,97,502,289,4
 /LISCDatabase/Main Dataset/mono/4.bmp,381,126,105,136,486,262,4
-/LISCDatabase/Main Dataset/mono/9.bmp,363,189,92,97,455,286,4
-/LISCDatabase/Main Dataset/mono/16.bmp,325,247,97,97,422,344,4
-/LISCDatabase/Main Dataset/mono/13.bmp,0,321,116,96,116,417,4
-/LISCDatabase/Main Dataset/mono/30.bmp,262,302,90,109,352,411,4
 /LISCDatabase/Main Dataset/mono/32.bmp,455,113,77,97,532,210,4
-/LISCDatabase/Main Dataset/mono/25.bmp,482,127,116,123,598,250,4
-/LISCDatabase/Main Dataset/mono/42.bmp,532,38,108,81,640,119,4
-/LISCDatabase/Main Dataset/mono/7.bmp,473,207,89,86,562,293,4
-/LISCDatabase/Main Dataset/mono/40.bmp,438,249,100,93,538,342,4
 /LISCDatabase/Main Dataset/mono/27.bmp,430,250,124,92,554,342,4
-/LISCDatabase/Main Dataset/mono/37.bmp,151,68,106,120,257,188,4
-/LISCDatabase/Main Dataset/mono/23.bmp,159,338,136,127,295,465,4
-/LISCDatabase/Main Dataset/mono/1.bmp,410,93,94,99,504,192,4
-/LISCDatabase/Main Dataset/mono/10.bmp,329,273,97,120,426,393,4
 /LISCDatabase/Main Dataset/mono/19.bmp,191,236,96,92,287,328,4
-/LISCDatabase/Main Dataset/mono/26.bmp,273,227,111,111,384,338,4
-/LISCDatabase/Main Dataset/mono/18.bmp,378,314,92,75,470,389,4
-/LISCDatabase/Main Dataset/mono/24.bmp,189,163,80,115,269,278,4
-/LISCDatabase/Main Dataset/mono/2.bmp,247,197,69,78,316,275,4
 /LISCDatabase/Main Dataset/mono/8.bmp,162,255,82,94,244,349,4
-/LISCDatabase/Main Dataset/mono/6.bmp,372,331,105,114,477,445,4
-/LISCDatabase/Main Dataset/mono/44.bmp,201,238,111,98,312,336,4
-/LISCDatabase/Main Dataset/mono/48.bmp,224,361,80,96,304,457,4
-/LISCDatabase/Main Dataset/mono/21.bmp,370,162,117,121,487,283,4
 /LISCDatabase/Main Dataset/mono/14.bmp,18,194,90,102,108,296,4
-/LISCDatabase/Main Dataset/mono/36.bmp,461,382,86,107,547,489,4
-/LISCDatabase/Main Dataset/mono/43.bmp,6,281,89,108,95,389,4
-/LISCDatabase/Main Dataset/mono/28.bmp,192,330,100,108,292,438,4
-/LISCDatabase/Main Dataset/mono/45.bmp,572,340,67,103,639,443,4
 /LISCDatabase/Main Dataset/mono/11.bmp,367,215,94,108,461,323,4
-/LISCDatabase/Main Dataset/mono/34.bmp,318,224,105,82,423,306,4
-/LISCDatabase/Main Dataset/mono/31.bmp,152,236,89,102,241,338,4
-/LISCDatabase/Main Dataset/mono/22.bmp,244,352,99,113,343,465,4
-/LISCDatabase/Main Dataset/mono/35.bmp,263,314,87,94,350,408,4
 /LISCDatabase/Main Dataset/mono/46.bmp,400,279,115,114,515,393,4
-/LISCDatabase/Main Dataset/mono/5.bmp,168,179,101,94,269,273,4
-/LISCDatabase/Main Dataset/neut/12.bmp,421,243,75,83,496,326,5
-/LISCDatabase/Main Dataset/neut/29.bmp,520,309,94,86,614,395,5
-/LISCDatabase/Main Dataset/neut/20.bmp,386,273,84,83,470,356,5
 /LISCDatabase/Main Dataset/neut/3.bmp,211,176,98,82,309,258,5
-/LISCDatabase/Main Dataset/neut/39.bmp,304,292,87,91,391,383,5
-/LISCDatabase/Main Dataset/neut/41.bmp,195,172,88,83,283,255,5
-/LISCDatabase/Main Dataset/neut/49.bmp,223,260,90,93,313,353,5
-/LISCDatabase/Main Dataset/neut/15.bmp,437,371,75,80,512,451,5
 /LISCDatabase/Main Dataset/neut/38.bmp,148,468,78,97,226,565,5
-/LISCDatabase/Main Dataset/neut/38.bmp,251,33,94,81,345,114,5
-/LISCDatabase/Main Dataset/neut/38.bmp,432,207,90,96,522,303,5
-/LISCDatabase/Main Dataset/neut/17.bmp,342,163,86,94,428,257,5
-/LISCDatabase/Main Dataset/neut/47.bmp,156,231,81,93,237,324,5
 /LISCDatabase/Main Dataset/neut/47.bmp,450,466,89,83,539,549,5
-/LISCDatabase/Main Dataset/neut/33.bmp,212,249,83,86,295,335,5
-/LISCDatabase/Main Dataset/neut/4.bmp,211,222,94,88,305,310,5
-/LISCDatabase/Main Dataset/neut/9.bmp,278,265,84,76,362,341,5
-/LISCDatabase/Main Dataset/neut/16.bmp,245,326,77,96,322,422,5
 /LISCDatabase/Main Dataset/neut/13.bmp,432,320,85,83,517,403,5
-/LISCDatabase/Main Dataset/neut/30.bmp,218,195,88,84,306,279,5
-/LISCDatabase/Main Dataset/neut/32.bmp,147,319,96,104,243,423,5
-/LISCDatabase/Main Dataset/neut/50.bmp,498,276,81,85,579,361,5
-/LISCDatabase/Main Dataset/neut/25.bmp,415,192,79,88,494,280,5
 /LISCDatabase/Main Dataset/neut/42.bmp,88,360,77,100,165,460,5
-/LISCDatabase/Main Dataset/neut/42.bmp,373,101,89,96,462,197,5
-/LISCDatabase/Main Dataset/neut/7.bmp,253,306,69,81,322,387,5
-/LISCDatabase/Main Dataset/neut/40.bmp,452,363,85,98,537,461,5
-/LISCDatabase/Main Dataset/neut/27.bmp,211,284,93,99,304,383,5
 /LISCDatabase/Main Dataset/neut/37.bmp,159,274,79,82,238,356,5
-/LISCDatabase/Main Dataset/neut/23.bmp,152,206,91,82,243,288,5
-/LISCDatabase/Main Dataset/neut/1.bmp,286,282,86,80,372,362,5
-/LISCDatabase/Main Dataset/neut/10.bmp,288,257,95,91,383,348,5
-/LISCDatabase/Main Dataset/neut/19.bmp,429,253,82,92,511,345,5
 /LISCDatabase/Main Dataset/neut/26.bmp,98,271,97,88,195,359,5
-/LISCDatabase/Main Dataset/neut/18.bmp,123,332,88,83,211,415,5
-/LISCDatabase/Main Dataset/neut/24.bmp,429,159,78,90,507,249,5
-/LISCDatabase/Main Dataset/neut/2.bmp,275,271,79,74,354,345,5
-/LISCDatabase/Main Dataset/neut/8.bmp,332,288,95,76,427,364,5
 /LISCDatabase/Main Dataset/neut/6.bmp,280,264,79,76,359,340,5
-/LISCDatabase/Main Dataset/neut/44.bmp,394,337,74,102,468,439,5
-/LISCDatabase/Main Dataset/neut/48.bmp,516,384,84,80,600,464,5
-/LISCDatabase/Main Dataset/neut/21.bmp,329,366,82,91,411,457,5
-/LISCDatabase/Main Dataset/neut/14.bmp,419,287,84,72,503,359,5
 /LISCDatabase/Main Dataset/neut/36.bmp,412,169,82,94,494,263,5
-/LISCDatabase/Main Dataset/neut/43.bmp,436,162,78,83,514,245,5
-/LISCDatabase/Main Dataset/neut/28.bmp,502,367,91,79,593,446,5
-/LISCDatabase/Main Dataset/neut/45.bmp,153,352,84,98,237,450,5
-/LISCDatabase/Main Dataset/neut/11.bmp,362,211,95,89,457,300,5
 /LISCDatabase/Main Dataset/neut/34.bmp,426,261,99,91,525,352,5
-/LISCDatabase/Main Dataset/neut/31.bmp,271,260,76,91,347,351,5
-/LISCDatabase/Main Dataset/neut/31.bmp,295,128,88,96,383,224,5
-/LISCDatabase/Main Dataset/neut/31.bmp,284,386,87,114,371,500,5
-/LISCDatabase/Main Dataset/neut/22.bmp,86,280,85,79,171,359,5
 /LISCDatabase/Main Dataset/neut/35.bmp,124,146,92,97,216,243,5
-/LISCDatabase/Main Dataset/neut/46.bmp,415,384,84,85,499,469,5
-/LISCDatabase/Main Dataset/neut/5.bmp,255,266,84,86,339,352,5
